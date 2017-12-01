@@ -1,0 +1,18 @@
+[user]
+	name = kohi
+	email = kohi3kohi@gmail.com
+[color]
+  # colorの設定(以下のコマンドは自動で色つける)
+  status = auto
+  diff = auto
+  branch = auto
+  interactive = auto
+  grep = auto
+
+# 参考 https://github.com/yuroyoro/dotfiles/blob/master/.gitconfig
+[alias]
+  s   = status
+  st  = status
+  ss  = status -s
+  sh  = show
+  co  = checkout
