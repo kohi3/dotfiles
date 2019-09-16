@@ -1,5 +1,6 @@
 PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 PATH="$PATH:/usr/local/go/bin"
+PATH="$PATH:$HOME/.nodebrew/current/bin"
 export PATH
 
 GOPATH="$HOME/go"
